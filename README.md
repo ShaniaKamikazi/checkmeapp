@@ -1,6 +1,6 @@
 # checkme_todo_app
 
-A new Flutter project.
+A new check me to do Flutter project.
 
 ## Getting Started
 
